@@ -27,6 +27,7 @@ Tech Savviness and Device Usage
 
 Stacked Column Chart: Preferred entertainment devices based on tech-savviness.
 Grouped Bar Chart: Awareness of digital well-being across educational and entertainment platform users.
+
 Interactive Features
 Slicers: Dynamic filters for age, country, gender, and platform preferences.
 Navigation Buttons: Smooth transitions for an intuitive user experience.
