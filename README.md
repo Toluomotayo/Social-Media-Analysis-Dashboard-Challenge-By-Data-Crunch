@@ -1,6 +1,6 @@
 # Social Media Challenge Dashboard - Data Crunch Dataset Challenge
 ## Introduction
-Welcome to my latest project for the Data Crunch Dataset Challenge, hosted in collaboration with Power BI: Peer Review Hub! This interactive, two-page Power BI dashboard combines insights and creativity to explore user behavior, engagement, and digital well-being. I used PowerPoint, Figma, and Power BI for data visualization and storytelling.
+Welcome to my latest project for the Data Crunch Dataset Challenge, hosted in collaboration with Power BI: Peer Review Hub! This interactive, two-page Power BI dashboard combines insights and creativity to explore user behavior, engagement, and digital well-being. I used PowerPoint, Figma, and Power BI for data visualization and storytelling. Link to the interactive dashboard: https://app.powerbi.com/links/nSmwpk99VU?ctid=e3f2ebb3-0810-4959-8e05-6cecd8c00ff2&pbi_source=linkShare
 
 ## Dashboard Overview
 The dashboard is split into two main pages to provide a comprehensive view of the dataset:
